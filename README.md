@@ -20,3 +20,4 @@ ___굵은기울임___
 <www.naver.com>
 
 [동명대](www.tu.ac.kr)
+![대체텍스트](./a.jpg)
